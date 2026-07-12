@@ -60,7 +60,7 @@ Feel free to fork this project and add features like:
 
 ---
 <p align="left">
-  <img src="sanzu.gif" alt="Sanzu - Python notes & IDE for Android" width="100">
+  <img src="https://github.com/heysanzu/sanzu/raw/main/sanzu.gif" alt="Sanzu - Python notes & IDE for Android" width="100">
 </p>
 
 Credit: `Sanzu`

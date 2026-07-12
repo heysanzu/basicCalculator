@@ -59,4 +59,8 @@ Feel free to fork this project and add features like:
 * Dark mode toggle.
 
 ---
+<p align="left">
+  <img src="sanzu.gif" alt="Sanzu - Python notes & IDE for Android" width="100">
+</p>
+
 Credit: `Sanzu`
